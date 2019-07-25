@@ -24,12 +24,5 @@ namespace Program
             return Proper+ "-" + gv.Trim();
 
         }
-        //static void Main(string[] args)
-        //{
-
-        //    ExtentionMethod e = new ExtentionMethod();
-        //    Console.WriteLine(e.ToProper("aNiL KUMAr"));
-        //    Console.ReadLine();
-        //}
     }
 }
